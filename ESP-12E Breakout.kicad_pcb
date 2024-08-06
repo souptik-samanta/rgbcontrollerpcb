@@ -587,7 +587,7 @@
 	(footprint "RF_Module:ESP-12E"
 		(layer "F.Cu")
 		(uuid "76547d6f-8a92-46ae-ba68-20b243bb4593")
-		(at 113.264 59.984)
+		(at 113.284 59.944)
 		(descr "Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf")
 		(tags "Wi-Fi Module")
 		(property "Reference" "U1"
@@ -602,7 +602,7 @@
 			)
 		)
 		(property "Value" "ESP-12E"
-			(at -0.06 -12.78 0)
+			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "eb6fea4a-31e8-45f9-8e4c-00466eb99cd5")
 			(effects
@@ -1100,7 +1100,7 @@
 			)
 			(polygon
 				(pts
-					(xy 105.144 55.184) (xy 121.384 55.184) (xy 121.384 47.864) (xy 105.144 47.864)
+					(xy 105.164 55.144) (xy 121.404 55.144) (xy 121.404 47.824) (xy 105.164 47.824)
 				)
 			)
 		)
@@ -2100,7 +2100,7 @@
 	)
 	(gr_circle
 		(center 124.928 82.168)
-		(end 124.42 84.708)
+		(end 127.518302 82.168)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -2429,7 +2429,7 @@
 	(segment
 		(start 106.64 80.9913)
 		(end 108.244 79.3873)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "66f9907e-7a4e-440f-9bcc-e76c14404c0f")
@@ -2437,7 +2437,7 @@
 	(segment
 		(start 108.244 79.3873)
 		(end 108.244 71.816)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "8a061989-a72b-4614-9ee2-b1e113e837d1")
@@ -2445,7 +2445,7 @@
 	(segment
 		(start 106.64 82.168)
 		(end 106.64 80.9913)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 2)
 		(uuid "cc08df57-39bf-4437-97f0-8cf57c54e5d5")
@@ -2453,7 +2453,7 @@
 	(segment
 		(start 109.18 80.9913)
 		(end 110.244 79.9273)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "1af12dee-58a8-47ce-9c42-89afc9c703cf")
@@ -2461,7 +2461,7 @@
 	(segment
 		(start 109.18 82.168)
 		(end 109.18 80.9913)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "99bff53f-db7f-4dd5-b3d0-0cf6f5e713ed")
@@ -2469,7 +2469,7 @@
 	(segment
 		(start 110.244 79.9273)
 		(end 110.244 71.816)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 3)
 		(uuid "b4e1ad6b-b439-43b5-87d9-c81bae65256b")
@@ -2477,7 +2477,7 @@
 	(segment
 		(start 112.244 80.4673)
 		(end 112.244 71.816)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 4)
 		(uuid "58a810de-bf35-4acd-a965-f6e47004d22a")
@@ -2485,7 +2485,7 @@
 	(segment
 		(start 111.72 82.168)
 		(end 111.72 80.9913)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 4)
 		(uuid "8501cd60-e64d-4e86-8a9d-38d0c7dc9c98")
@@ -2493,7 +2493,7 @@
 	(segment
 		(start 111.72 80.9913)
 		(end 112.244 80.4673)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 4)
 		(uuid "fd7597af-bb4e-464d-be7c-1638e3bd6241")
@@ -2669,7 +2669,7 @@
 	(segment
 		(start 119.34 74.1387)
 		(end 118.244 73.0427)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 13)
 		(uuid "437efd55-a75e-4fee-90c6-c956a04ef5fc")
@@ -2677,7 +2677,7 @@
 	(segment
 		(start 119.34 82.168)
 		(end 119.34 74.1387)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 13)
 		(uuid "839a8cbd-8fa2-42f7-83ae-c206cf11cb67")
@@ -2685,7 +2685,7 @@
 	(segment
 		(start 118.244 71.816)
 		(end 118.244 73.0427)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 13)
 		(uuid "9a1e8704-d5cf-4c16-bf96-aa2b1ed92de5")
@@ -2693,7 +2693,7 @@
 	(segment
 		(start 116.8 80.9913)
 		(end 116.244 80.4353)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "66f07c05-806a-44fd-a2ff-a26b0ec9278d")
@@ -2701,7 +2701,7 @@
 	(segment
 		(start 116.8 82.168)
 		(end 116.8 80.9913)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "ae8f76c2-b312-49c7-abd9-22be1e6548e0")
@@ -2709,7 +2709,7 @@
 	(segment
 		(start 116.244 80.4353)
 		(end 116.244 71.816)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 14)
 		(uuid "c3bfb937-32f8-4318-a961-c423af51fb2f")
@@ -2717,7 +2717,7 @@
 	(segment
 		(start 114.26 82.168)
 		(end 114.26 80.9913)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 15)
 		(uuid "1c9a763e-e2aa-4790-8b00-ad6d24c454ff")
@@ -2725,7 +2725,7 @@
 	(segment
 		(start 114.244 80.9753)
 		(end 114.244 71.816)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 15)
 		(uuid "f803c5a1-755f-4afc-932c-35d4145accbb")
@@ -2733,7 +2733,7 @@
 	(segment
 		(start 114.26 80.9913)
 		(end 114.244 80.9753)
-		(width 0.25)
+		(width 0.8)
 		(layer "F.Cu")
 		(net 15)
 		(uuid "fc220eda-374a-49b0-a9c5-f4d4e87510fd")
